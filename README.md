@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 my name is Kartik, and I am blockchain developer.<br><br>🌱 This is my development space for all the projects and contribution i made till date.<br><br>🔭 My goal is to add value to the exciting world of blockchain and decentralized finance.<br> <br>🤝So, that we can build a true democratic decentralized future together!<br><br>🌐 You can always see my all projects at.<br><br>(https://kartikgiri.vercel.app/)<br><br>💬 Always feel free to connect for a chat, questions, or collaboration with me.<br><br>Let's build web3! 🚀✨
+Hi! 👋 my name is Kartik, and I am blockchain developer.<br><br>🌱 This is my development space for all the projects and contribution i made till date.<br><br>🔭 My goal is to add value to the exciting world of blockchain and decentralized finance.<br> <br>🤝So, that we can build a true democratic decentralized future together!<br><br>🌐 You can always see my all projects at:<br><br>(https://kartikgiri.vercel.app/)<br><br>💬 Always feel free to connect for a chat, questions, or collaboration with me.<br><br>Let's build web3! 🚀✨
 
 
 ## 🌐 Socials:
