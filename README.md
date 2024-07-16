@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 my name is Kartik, I am blockchain developer and security researcher.<br><br>🌱 This is my development space for all the projects, security reviews and contribution i made till date.<br><br>🔭 My goal is to add value to the exciting world of blockchain and DEFI using my development and bug finding skills.<br> <br>🤝So, that we can build a true democratic, decentralized and secure future together!<br><br>🌐 You can always see my all projects at: (https://www.kartikgiri.me/)<br><br>💬 Always feel free to connect for a chat, questions, or collaboration with me.<br><br>Let's build web3! 🚀✨
+Hi! 👋 my name is Kartik, I am Smart contract developer and security researcher.<br><br>🌱 This is my development space for all the projects, security reviews and contribution i made till date.<br><br>🔭 My goal is to add value to the exciting world of blockcahin and DEFI using my development and bug finding skills.<br> <br>🤝So, that we can build a true democratic, decentralized and secure future together!<br><br>🌐 You can always see my all projects at: (https://www.kartikgiri.me/)<br><br>💬 Always feel free to connect for a chat, questions, or collaboration with me.<br><br>Let's build web3! 🚀✨
 
 
 ## 🌐 Socials:
